@@ -1,7 +1,12 @@
 # .gitignore
 
 *.hdf5
+*.swp
+*~
 
 .venv/
+__pycache__/
+v02/one_step/
+v02/checkpoints/
 
 choms.txt
