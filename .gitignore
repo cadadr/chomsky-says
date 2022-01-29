@@ -1,0 +1,7 @@
+# .gitignore
+
+*.hdf5
+
+.venv/
+
+choms.txt
